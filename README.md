@@ -1,8 +1,5 @@
 # BDDTraining
-Examples Covered In -
-Scenario
-Scenario Outline
-Data Table 
+Examples Covered In -BDD Scenario,Scenario Outline,Data Table,Tag and Reports 
 
 
 Eclipse:
